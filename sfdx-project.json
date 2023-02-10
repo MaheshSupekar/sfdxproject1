@@ -1,0 +1,25 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "DX test Package",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.2.0.2",
+      "versionDescription": "",
+      "ancestorId": "04t5g000000qFJDAA2"
+    }
+  ],
+  "name": "dxpackage",
+  "namespace": "dxtestpackage32",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "DX test Package": "0Ho5g000000PBOTCA4",
+    "DX test Package@0.1.0-1": "04t5g000000qFIoAAM",
+    "DX test Package@0.1.0-2": "04t5g000000qFItAAM",
+    "DX test Package@0.1.0-3": "04t5g000000qFIyAAM",
+    "DX test Package@0.1.0-4": "04t5g000000qFJ3AAM",
+    "DX test Package@0.2.0-2": "04t5g000000qFJDAA2"
+  }
+}
